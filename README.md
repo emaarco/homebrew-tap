@@ -20,4 +20,4 @@ Best served with [`gum`](https://github.com/charmbracelet/gum) for nicer setup d
 
 ---
 
-*Poured with ♥ by [emaarco](https://github.com/emaarco) · more magic lives in [`hogwarts`](https://github.com/emaarco/hogwarts)*
+*Poured with ♥ by [emaarco](https://github.com/emaarco)*
