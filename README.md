@@ -13,10 +13,8 @@ The [Homebrew](https://brew.sh) tap of [emaarco](https://github.com/emaarco): th
 ## 🍺 Order
 
 ```bash
-brew install --HEAD emaarco/tap/accio-brew
+brew install emaarco/tap/accio-brew
 ```
-
-> **Still fermenting:** `accio-brew` has no tagged release yet, so it is poured from `main` with `--HEAD`. Its source repository is private for now; the install only works with git access to it.
 
 Best served with [`gum`](https://github.com/charmbracelet/gum) for nicer setup dialogs. Prefer it neat? Add `--without-gum`.
 
