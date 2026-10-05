@@ -1,6 +1,6 @@
 # emaarco Homebrew Tap
 
-The [Homebrew](https://brew.sh) tap for tools by [Marco Schaeck](https://github.com/emaarco).
+The [Homebrew](https://brew.sh) tap for tools by [emaarco](https://github.com/emaarco).
 
 ## What is a Tap?
 
