@@ -1,8 +1,4 @@
-# 🍻 The Three Broomsticks
-
-> *Thirsty?* Pull up a stool. The butterbeer is on tap, and every brew is one `brew install` away.
-
-My [Homebrew](https://brew.sh) tap: the pub where my tools are poured. Muggles know it as `emaarco/tap`.
+Welcome to the Three Broomsticks 🍻, my [Homebrew](https://brew.sh) tap. This is the pub where my tools are on draught, each one a single `brew install` away. Muggles know the place as `emaarco/tap`.
 
 ## 📜 On the menu
 
@@ -36,7 +32,3 @@ Pour the latest version:
 ```bash
 brew upgrade accio-brew
 ```
-
----
-
-*Poured with ♥ by [emaarco](https://github.com/emaarco)*
