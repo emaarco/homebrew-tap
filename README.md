@@ -2,7 +2,7 @@
 
 > *Thirsty?* Pull up a stool. The butterbeer is on tap, and every brew is one `brew install` away.
 
-The [Homebrew](https://brew.sh) tap of [emaarco](https://github.com/emaarco): the pub where my tools are poured. Muggles know it as `emaarco/tap`.
+My [Homebrew](https://brew.sh) tap: the pub where my tools are poured. Muggles know it as `emaarco/tap`.
 
 ## 📜 On the menu
 
@@ -12,11 +12,30 @@ The [Homebrew](https://brew.sh) tap of [emaarco](https://github.com/emaarco): th
 
 ## 🍺 Order
 
+Add the [tap](https://docs.brew.sh/Taps) once, then order whatever is on the menu:
+
+```bash
+brew tap emaarco/tap
+brew install accio-brew
+```
+
+Or skip the tapping and order straight at the bar, in one go:
+
 ```bash
 brew install emaarco/tap/accio-brew
 ```
 
-Best served with [`gum`](https://github.com/charmbracelet/gum) for nicer setup dialogs. Prefer it neat? Add `--without-gum`.
+It comes with [`gum`](https://github.com/charmbracelet/gum) on the side for nicer setup dialogs. Prefer it neat? Append `--without-gum` to the install command.
+
+Then take the first sip with `accio-brew init`. The [accio-brew README](https://github.com/emaarco/accio-brew#readme) has the rest.
+
+## 🔄 Top up
+
+Pour the latest version:
+
+```bash
+brew upgrade accio-brew
+```
 
 ---
 
