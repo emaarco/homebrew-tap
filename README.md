@@ -1,3 +1,5 @@
+# emaarco/tap
+
 Welcome to the Three Broomsticks 🍻, my [Homebrew](https://brew.sh) tap. This is the pub where my tools are on draught, each one a single `brew install` away. Muggles know the place as `emaarco/tap`.
 
 ## 📜 On the menu
