@@ -1,8 +1,8 @@
 class AccioBrew < Formula
   desc "Summon your Homebrew setup onto any Mac over plain git"
   homepage "https://github.com/emaarco/accio-brew"
-  url "https://github.com/emaarco/accio-brew/archive/refs/tags/v1.4.2.tar.gz"
-  sha256 "bf8e0b435d351e13c25b693585bc867318fe6dee879b8326377ecbe7beab7a44"
+  url "https://github.com/emaarco/accio-brew/archive/refs/tags/v1.5.0.tar.gz"
+  sha256 "980b4ab7d6b8f62f2933a1fec166dc1e6967ac830c10c1079843ffe21cdf990f"
   head "https://github.com/emaarco/accio-brew.git", branch: "main"
 
   depends_on :macos
